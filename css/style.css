@@ -1,0 +1,19 @@
+html,body{
+    height: 100%;
+}
+body{
+    background-image:url(../images/102.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.form-login{
+    background-color: rgba(236,240,241,.35);
+    border-radius: 10px;
+    max-width: 450px;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    color: rgb(85, 47, 47);
+    font-weight: 700;
+}
